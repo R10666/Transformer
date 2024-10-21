@@ -16,3 +16,9 @@ huggingface tokenizers
 numpy
 pytorch torchtext
 pathlib
+
+
+Server side:
+
+# Start the ssh-agent automatically
+eval "$(ssh-agent -s)" > /dev/null
